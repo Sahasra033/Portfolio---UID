@@ -24,3 +24,20 @@ The contact section allows users to connect with me through a simple form layout
 It is designed using basic HTML and CSS.
 ## Footer
 The footer contains basic information and completes the webpage design.
+
+## Setup Instructions
+
+1. Download the project files from GitHub  
+2. Extract the files (if downloaded as ZIP)  
+3. Open the folder
+
+## How to Run the Project
+
+You can view the project in two ways:
+
+1. Open the live website:  
+   https://github.com/Sahasra033/Portfolio---UID
+
+2. Or run locally:  
+   - Download the project  
+   - Open index.html in your browser
