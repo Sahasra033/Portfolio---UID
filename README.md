@@ -11,10 +11,10 @@ The home section displays my name and a short introduction.
 The layout is designed to look clear and properly aligned on all devices.
 ## Skills
 This section shows the skills I have learned so far:
-* Python
-* Java
-* HTML
-* Circuit Design
+* Python Programming
+* Java Concepts
+* HTML & CSS 
+* Electronics & Circuit Design
 Each skill is presented in a simple and neat way.
 ## Projects
 This section includes the projects I have worked on.
